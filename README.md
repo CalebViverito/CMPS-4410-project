@@ -1,4 +1,3 @@
 Very useless
 
-Looks at uma
-Says if it has A rank in a race
+Looks at uma, says if it has A rank in a race
