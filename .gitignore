@@ -2,3 +2,9 @@
 /model_history
 /models
 /db
+/test_data
+/model_eval
+/model_plots
+/model_result
+/new_test
+testdata.csv
